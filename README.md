@@ -1,16 +1,50 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?text=Welcome!&type=waving&color=auto&height=200&section=header)
 
-<!--
-**pythonstrup/pythonstrup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="left">
+<h3> 🤙 Contact Me! </h3>
+<p>
+    <a href="https://myvelop.tistory.com/"><img src="https://img.shields.io/badge/My Blog-000000?style=flat-square&logo=Storyblok&logoColor=white"/></a>&nbsp
+    <a href="https://www.linkedin.com/in/jh-park-6b062821a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>&nbsp
+    <a href="pythonstrup@gmail.com"><img src="https://img.shields.io/badge/pythonstrup@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp
+</p>
 
-Here are some ideas to get you started:
+<br/>
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3> 🏄 My Skills </h3>
+
+<p>
+    <img src="https://img.shields.io/badge/Python-244BA6?style=flat-square&logo=python&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/Java-BE327B?style=flat-square&logo=java&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>&nbsp
+</p>
+
+<br/>
+
+<h3> 🛶 Do a little bit </h3>
+
+<p>
+    <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>&nbsp
+</p>
+</p>
+    <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>&nbsp
+</p>
+
+<br/>
+
+<h3> 🙌 Visitor </h3>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpythonstrup%2Fhit-counter&count_bg=%23B6CD0D&title_bg=%230E1160&icon=github.svg&icon_color=%23E7E7E7&title=Github+Visitor&edge_flat=false)](https://github.com/pythonstrup)
+
+<br/><br/>
+
+</div>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pythonstrup)](https://github.com/pythonstrup/github-readme-stats)
