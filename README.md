@@ -27,7 +27,7 @@
 
 <div align="center">
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pythonstrup&layout=compact&hide=jupyter%20notebook,roff">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pythonstrup&langs_count=6&hide=jupyter%20notebook,roff">
 
 <h3> 🏄 My Skills </h3>
 
