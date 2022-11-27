@@ -44,7 +44,7 @@
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp 
     <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white"/>&nbsp
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=&logoColor=white"/>&nbsp  
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=Mysql&logoColor=white"/>&nbsp  
 </p>
 
 <br/>
