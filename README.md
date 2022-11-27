@@ -60,7 +60,6 @@
     <img src="https://img.shields.io/badge/Python-244BA6?style=flat-square&logo=python&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/Java-BE327B?style=flat-square&logo=Java&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>&nbsp
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>&nbsp
 </p>
 
 <br/>
