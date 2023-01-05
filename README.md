@@ -39,7 +39,10 @@
     <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>&nbsp
 </p>
-
+<p>
+    <img src="https://img.shields.io/badge/Java-BE327B?style=flat-square&logo=Java&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>&nbsp
+</p>
 <p>
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp 
     <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>&nbsp
@@ -58,7 +61,6 @@
 <p>
     <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/Python-244BA6?style=flat-square&logo=python&logoColor=white"/>&nbsp
-    <img src="https://img.shields.io/badge/Java-BE327B?style=flat-square&logo=Java&logoColor=white"/>&nbsp
 </p>
 
 <br/>
