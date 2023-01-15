@@ -9,7 +9,7 @@
 <h3> 🤙 Contact Me! </h3>
 <p>
     <a href="https://myvelop.tistory.com/"><img src="https://img.shields.io/badge/My Blog-000000?style=flat-square&logo=Storyblok&logoColor=white"/></a>&nbsp
-    <a href="https://www.linkedin.com/in/jh-park-6b062821a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>&nbsp
+    <a href="https://www.linkedin.com/in/jong-hyeok-park-6b062821a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>&nbsp
     <a href="matilto:pythonstrup@gmail.com"><img src="https://img.shields.io/badge/pythonstrup@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp
 </p>
 
